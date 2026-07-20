@@ -15,6 +15,7 @@ MENU = {
     "coffee": 3.25,
     "tea": 3.00,
     "bagel": 2.50,
+    "muffin": 5.50,
     # Add new products here
 }
 
