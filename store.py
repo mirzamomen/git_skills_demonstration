@@ -12,7 +12,7 @@ OPENING_HOURS = "9am - 6pm"
 
 # Each entry is "product": price (in USD).
 MENU = {
-    "coffee": 3.25,
+    "coffee": 3.0,
     "tea": 3.00,
     "bagel": 2.50,
     "muffin": 5.50,
