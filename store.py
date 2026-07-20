@@ -20,7 +20,7 @@ MENU = {
 }
 
 INVENTORY = {
-    "coffee": 40,
+    "coffee": 38,
     "tea": 15,
 }
 
